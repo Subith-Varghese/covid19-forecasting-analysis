@@ -141,6 +141,6 @@ python main.py
 
 ## Outputs:
 
-- Check outputs/plots/ for visualizations
-- Check outputs/forecasts.csv for forecasted deaths
-- outputs/prophet_model.pkl can be loaded for future predictions
+- Check **outputs/plots/** for visualizations
+- Check **outputs/forecasts.csv** for forecasted deaths
+- **outputs/prophet_model.pkl** can be loaded for future predictions
