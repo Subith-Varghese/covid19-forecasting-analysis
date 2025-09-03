@@ -49,6 +49,43 @@ covid_forecasting_project/
 
 ```
 ---
+
+## 📊 Top 10 Countries COVID-19 Analysis
+
+The project visualizes the Top 10 Countries for Confirmed Cases, Deaths, Recoveries, and Active Cases using matplotlib and seaborn.
+
+### Insights from the Plots
+
+### 1️. Confirmed Cases
+- United States has the highest number of confirmed cases.
+- Followed by Brazil, Russia, India, and Spain.
+- These countries carry the highest burden of COVID-19 infections globally.
+
+### 2️. Deaths
+- United States also has the highest reported deaths.
+- Brazil and the United Kingdom are next.
+- This highlights the severity of the pandemic in these countries.
+
+### 3. Recovered Cases
+- United States leads in recoveries, showing a high recovery rate.
+- Brazil, Russia, and India also have significant recovery counts.
+- This indicates successful recovery trends in some regions.
+
+### 4. Active Cases
+- United States currently has the highest number of active cases.
+- Brazil and India follow closely, indicating ongoing healthcare challenges.
+- High active cases emphasize the need for strong containment strategies.
+  
+---
+## 📈 Forecasting with Facebook Prophet
+
+Using Facebook Prophet, we forecast daily COVID-19 deaths for the next 14 days.
+The model:
+
+- Captures trends and seasonality
+- Predicts upper & lower confidence intervals
+- Generates interactive plots for better insights
+---
 ## Project Workflow
 
 The project workflow is modular and can be executed end-to-end by running main.py:
