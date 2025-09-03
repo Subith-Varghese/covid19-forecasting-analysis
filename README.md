@@ -1,4 +1,4 @@
-# COVID-19 Forecasting Project
+# 🦠📈 COVID-19 Forecasting Project
 
 ## Project Overview
 
